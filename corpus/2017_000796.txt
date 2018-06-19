@@ -1,0 +1,12 @@
+date : 2017-01-08
+content : Able to consult on business related academic assignments (any subject), thesis, case studies, projects, proof reading/editing etc. Call: 0777 173521.
+type : PROFESSIONAL CONSULTANCY SERVICES
+date : 2017-01-15
+content : Able to consult on business related academic assignments (any subject), thesis, case studies, projects, proof reading/editing etc. Call: 0777 173521.
+type : PROVESSIONAL CONSULTANCY SERVICES
+date : 2017-01-22
+content : Able to consult on business related academic assignments (any subject), thesis, case studies, projects, proof reading/editing etc. Call: 0777 173521.
+type : PROFESSIONAL CONSULTANCY - SERVICES
+date : 2017-01-29
+content : Able to consult on business related academic assignments (any subject), thesis, case studies, projects, proof reading/editing etc. Call: 0777 173521.
+type : PROFESSIONAL CONSULTANCY SERVICES
